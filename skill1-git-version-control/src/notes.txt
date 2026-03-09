@@ -1,0 +1,2 @@
+This is a sample notes file used in the Git Version Control lab.
+It demonstrates tracking text files with Git.
