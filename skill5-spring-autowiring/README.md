@@ -14,7 +14,7 @@ src/main/resources/
 ```
 
 ## How to Run
-1. Right-click `App.java` → Run As → Java Application
+1. Right-click`App.java` → Run As → Java Application
 
 ## Expected Output
 ```
